@@ -1,0 +1,99 @@
+#kamera {
+  color: #FFFFFF;
+  margin-right: 10px;
+  margin-left: 30%;
+}
+
+#knjiga {
+  margin-right: 600px;
+}
+
+#naslov {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 80px;
+}
+
+#podnaslov {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+#gumb1 {
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+#gumb2 {
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.ozadje {
+  background-color: #ededed;
+  padding-top: 5px;
+  margin-top: 150px;
+}
+
+#vrstice {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 25px;
+  padding-left: 700px;
+  padding-right: 700px;
+}
+
+#stolpci {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 25px;
+  padding-left: 700px;
+  padding-right: 700px;
+}
+
+#krneki {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 25px;
+  padding-left: 700px;
+  padding-right: 700px;
+}
+
+#ena {
+  text-align: right;
+}
+
+#dva {
+  text-align: right;
+}
+
+#tri {
+  text-align: right;
+}
+
+#stiri {
+  text-align: right;
+}
+
+#pet {
+  text-align: right;
+}
+
+#sest {
+  text-align: right;
+}
+
+#sedem {
+  text-align: right;
+}
+
+#osem {
+  text-align: right;
+}
+
+#devet {
+  text-align: right;
+}
